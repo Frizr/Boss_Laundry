@@ -1,0 +1,14 @@
+# Dependency directories
+vendor/
+node_modules/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Composer lock (optional – keep if you want exact versions)
+# composer.lock
+
+# Log / temp files
+*.log
+*.tmp
