@@ -149,9 +149,9 @@ This project is licensed under the **MIT License** – see the `LICENSE` file fo
 
 ## 👨‍💻 Author
 
-**Rizal** – *Full‑stack web developer*  
-[GitHub Profile](https://github.com/yourusername)  
-Email: `rizal@example.com`
+**Afrizal** – *Full‑stack web developer*  
+[GitHub Profile](https://github.com/Frizr)  
+Email: `afrizalrizky000@gmail.com`
 
 ---
 
